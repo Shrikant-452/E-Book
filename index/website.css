@@ -344,6 +344,8 @@ body {
     }
 
     footer{
+        background-image: url("footer.jpg");
+        background-size: cover;
       display: flex;
       flex-wrap: wrap;
       flex-direction: column;  
